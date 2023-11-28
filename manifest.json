@@ -5,6 +5,6 @@
   "description": "Adds 29 randomly changing Femboys & Firearms posters to the ship",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "femboytv-LethalPosters-1.0.3"
+    "femboytv-LethalPosters-1.0.4"
   ]
 }
