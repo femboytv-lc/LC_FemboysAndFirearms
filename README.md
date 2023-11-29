@@ -2,5 +2,6 @@
 [![Discord](https://img.shields.io/discord/1038789193113014333?style=for-the-badge&logo=discord&logoColor=%235865F2&label=%20&labelColor=%23121212&color=%235865F2)](https://discord.gg/VFRHNGrydD)
 # Femboys & Firearms poster pack
 Adds 29 randomly changing Femboys & Firearms posters to the ship
+Also adds 29 randomly changing variants of mansion paintings
 
 ## All credit for the posters goes to [Marcus Gray](https://twitter.com/MarcusGrayArts)
