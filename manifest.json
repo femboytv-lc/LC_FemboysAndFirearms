@@ -1,11 +1,11 @@
 {
   "name": "FemboysAndFirearms",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://femboy.tv",
   "description": "Adds 29 randomly changing Femboys & Firearms posters and paintings",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "femboytv-LethalPosters-1.0.6",
-    "femboytv-LethalPaintings-1.0.0"
+    "femboytv-LethalPosters-1.0.8",
+    "femboytv-LethalPaintings-1.0.3"
   ]
 }
